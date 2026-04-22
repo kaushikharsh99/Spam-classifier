@@ -1,0 +1,3 @@
+# larger 80M model skipped
+nn-80M/nn_model.pt
+nn-80M/test_data.pt

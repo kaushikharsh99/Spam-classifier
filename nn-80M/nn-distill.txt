@@ -1,0 +1,4 @@
+
+===== SMALL STUDENT MODEL RESULT =====
+Accuracy: 0.981228622247
+
